@@ -14,17 +14,16 @@
 
 body{
     height: 100vh;
+    padding-top: 60px;
 }
 
-header{
-    background-image: linear-gradient(to top right,#393e46, #FFD369, white);
-    padding-top: 20px;
+#navbar{
+    background-image: linear-gradient(to right , #FFD369, #393e46);
+    border-radius: 0px 0px 5px 5px;
 }
 
-header img{
-    display: block;
-    height: 100px;
-    margin: auto;
+#lamborghini-logo{
+    height: 80px;
 }
 
 menu{
