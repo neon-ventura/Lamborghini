@@ -12,6 +12,10 @@
     box-sizing: border-box;
 }
 
+body{
+    height: 100vh;
+}
+
 header{
     background-image: linear-gradient(to top right,#393e46, #FFD369, white);
     padding-top: 20px;
@@ -37,7 +41,7 @@ menu a{
 }
 
 .container{
-    background-color: var(--cinza);
+    background-image: linear-gradient(to right ,#222831,#393e46 );
     padding: 30px;
     margin-top: -14px;
 }
@@ -75,4 +79,13 @@ menu a{
     background-color: #FFD369;
     color: black;
     border: black;
+}
+
+footer{
+    background-color: #FFD369;
+    text-align: center;
+}
+
+footer strong{
+    color: blue;
 }
