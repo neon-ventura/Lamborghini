@@ -56,4 +56,19 @@ menu a{
     margin-top: 50px;
     width: 10rem;
     height: 20rem;
+    border: #222831;
+}
+
+.card-body{
+    background-color: #222831;
+    color: white;
+}
+
+#card-title{
+    color: white;
+}
+
+#saiba-mais{
+    background-color: #FFD369;
+    color: black;
 }
