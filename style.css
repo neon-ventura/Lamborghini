@@ -56,7 +56,10 @@ menu a{
     margin-top: 50px;
     width: 10rem;
     height: 20rem;
-    border: #222831;
+}
+
+#card{
+    background-color: #222831;
 }
 
 .card-body{
