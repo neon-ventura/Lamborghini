@@ -56,4 +56,6 @@ img{
 .card{
     margin: auto;
     margin-top: 50px;
+    width: 10rem;
+    height: 20rem;
 }
